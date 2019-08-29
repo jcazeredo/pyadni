@@ -9,7 +9,7 @@ setup(
     author = 'Julio Azeredo',
     author_email = 'jcdazeredo@gmail.com',
     url = 'https://github.com/jcazeredo/pyadni',
-    download_url = 'https://github.com/jcazeredo/pyadni/archive/master.zip',
+    download_url = 'https://github.com/jcazeredo/pyadni/archive/v0.0.1.zip',
     keywords = ['ADNI', 'Package', 'Alzheimer', 'Disease', 'image', 'dataset'],
     install_requires=[
           'mechanize',
